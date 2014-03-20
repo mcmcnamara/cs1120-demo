@@ -1,1 +1,4 @@
 New file from Marie
+
+I've added this text from jGrasp, just by opening it from C:\Users\Marie\Documents\GitHub 
+and editing like a normal text file.  Then I'll save it and commit the changes through GitHub's UI.
